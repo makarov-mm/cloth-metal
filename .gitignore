@@ -58,5 +58,8 @@ Carthage/Build/
 
 fastlane/report.xml
 fastlane/Preview.html
+
+# Local build output (build-metal.sh / build.sh)
+build/
 fastlane/screenshots/**/*.png
 fastlane/test_output
